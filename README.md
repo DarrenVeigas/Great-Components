@@ -4,4 +4,6 @@
 
 2. https://getbootstrap.com/docs/5.3/getting-started/introduction/: great for getting components
 
-3. https://platform.openai.com/tokenizer : to get no of tokens 
+3. https://platform.openai.com/tokenizer : to get no of tokens
+
+4. spacy>nltk from nlp
