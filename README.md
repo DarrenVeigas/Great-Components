@@ -7,3 +7,5 @@
 3. https://platform.openai.com/tokenizer : to get no of tokens
 
 4. spacy>nltk from nlp
+
+5. mixedbread.ai : Used to implement rerank to order results by relevance
