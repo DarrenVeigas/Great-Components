@@ -10,4 +10,4 @@
 
 5. mixedbread.ai : Used to implement rerank to order results by relevance
 
-6. flash attention 2 : used to load and make llms work faster
+6. flash attention 2 : used to load and make llms work faster :https://github.com/Dao-AILab/flash-attention
