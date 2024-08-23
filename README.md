@@ -9,3 +9,5 @@
 4. spacy>nltk from nlp
 
 5. mixedbread.ai : Used to implement rerank to order results by relevance
+
+6. flash attention 2 : used to load and make llms work faster
